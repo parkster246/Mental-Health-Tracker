@@ -1,4 +1,5 @@
 import React from 'react';
+import Welcome from './components/WelcomeContent';
 
 
 
@@ -9,7 +10,7 @@ function App() {
        
      </header>
      <div className="WelcomeContent">
-
+      <Welcome />
      </div>
      <div className="SalesPitch">
 
