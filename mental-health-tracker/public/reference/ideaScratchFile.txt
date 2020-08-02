@@ -1,0 +1,12 @@
+Random ideas
+-Not planning on organizing this, I figure any organizing of ideas would be...
+-moved to issues/milestones in GitHub
+
+Mood Percentage Slider
+-Slides up and down and maybe has a face change.
+-0%-100% for accuracy (rather than something more broken down)
+
+User can add medications
+-how often?
+-notifications
+
