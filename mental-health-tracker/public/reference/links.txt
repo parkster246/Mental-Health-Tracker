@@ -1,0 +1,17 @@
+Links added here for various needs
+
+*----Style Related----*
+
+    https://coolors.co/885053-3d5a6c-72a98f-f3eff5-fcf7ff
+
+        --> Color Scheme (middle three only for now)
+
+    https://www.moodtracker.com/
+
+        --> Landing page has some great looking cards
+
+*----Plugin Related----*
+
+    https://react-bootstrap.github.io/
+
+        --> Bootstrap for react
